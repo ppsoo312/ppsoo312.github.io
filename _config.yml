@@ -100,27 +100,19 @@ content:
                      사회조사분석사2급  (한국산업인력공단, 2015.08)
                      
                      사회복지사1급  (한국산업인력공단, 2017.03)                     
-  - title: 수상내역 # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title:
-        link: http://naver.me/G1FpcuO3
-        # link_text: 수상내역
+      - layout: left
+        title: Hankuk University of Foreign Studies
+        caption: 2010 - 2016
+        sub_title: BSc Thai Language
         quote: >
-          <mark>창의적인</mark> 생각과 다양한 활동을 지속하였고, 아래와 같은 결과물을 도출하였습니다.
+          Hankuk University of Foreing Studies, aka HUFS, is best Foreign-study education institution in South Korea.
         description: | # this will include new lines to allow paragraphs
-                     2021년 2분기 지정주제 아이디어 공모전(장려)  (서울시립대학교, 2021.12)
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-                     최우수 졸업자(전체수석)  (학교법인 금강학원, 2017.02)
-                     
-                     이그나이트 경진대회(장려)  (유원대학교(구 영동대학교), 2016.12)
-                     
-                     교내 토익 경시대회 개인별 8위  (유원대학교(구 영동대학교), 2016.11)
-                     
-                     우수 동아리 선정 표창장(장려)  (영동대학교, 2016.06)
-                     
-                     우수 동아리 선정 표창장(장려)  (영동대학교, 2015.12)                       
+          In HUFS, I had various chances to get along with students from abroad, so it helped me to be a multicultural individual who can get easy with exotic cultures.                  
 
 # Footer
 footer_show_references: true
