@@ -21,7 +21,7 @@ github_username: ppsoo312
 # about_title: About Me
 about_profile_image: images/ParkYounSoo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  *More sincere than anyone else**
+  **More sincere than anyone else**
 
   누구보다 성실하게 한명의 개발자로 나아가고 싶은 <mark>박윤수</mark> 라고 합니다!
   
