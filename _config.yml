@@ -29,8 +29,31 @@ about_content: | # this will include new lines to allow paragraphs
   
   계속해서 성장과 발전을 하기 위해 끊임없이 노력할 것입니다.
   
-  저와 같은 비전을 향해 나아가기 위해 저의 강점을 회사의 이바지하고 저의 단점을 줄여나가길 희망합니다.
+  저와 함께 비전을 나아가기 희망합니다!
 content:
+  - title: Myongji College # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Myongji College
+        link: http://naver.me/5vYwJD7N
+        # link_text: 성적증명서
+        quote: >
+          Myongji College 소프트웨어콘텐츠학과 졸업
+        description: | # this will include new lines to allow paragraphs
+                   전공
+                   
+                   웹프로그래밍(2018-1학기) 　　　프로그래밍기초(2018-1학기)
+                   앱프로그래밍(2018-1학기) 　　　게임개발기초(2018-1학기)
+                   
+                   서버프로그래밍기초(2018-2학기) 　　　앱개발기초(2018-2학기)
+                   네트워크게임(2018-2학기) 　　　　　　게임개발응용(2018-2학기)
+                   
+                   앱개발응용(2019-1학기) 　　　게임인공지능(2019-1학기)
+                   가상현실게임(2019-1학기) 　　콘텐츠기획(2019-1학기)
+                   
+                   게임개발실무(2019-2학기) 　　 　　앱개발실무(2019-2학기)
+                   가상현실그래픽실습(2019-2학기)　　
   - title: 국비과정 교육 수료 # Title for the section
     layout: list # Type of content section (list/text)
     content:
