@@ -21,15 +21,15 @@ github_username: ppsoo312
 # about_title: About Me
 about_profile_image: images/ParkYounSoo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  **On my way, My way trip**
+  *More sincere than anyone else**
 
-  한명의 새로운 개발자로써의 여행을 떠나고 싶은 <mark>김인진</mark> 이라고 합니다!
+  누구보다 성실하게 한명의 개발자로 나아가고 싶은 <mark>박윤수</mark> 라고 합니다!
   
-  20살 이후로 제가 해야 하는 일에 누구보다 최선을 다하였으며, 결과로 증명하였습니다.
+  개발자로 진로를 정한 이후에 쳐지지 않기 위해 쉬지 않고 달려왔습니다. 
   
-  앞으로의 개발자로써의 길 또한 누구보다 열심히 달릴 자신이 있습니다.
+  계속해서 성장과 발전을 하기 위해 끊임없이 노력할 것입니다.
   
-  저의 부족함을 채울 수 있는 열정과 성실성, 그리고 저의 가능성을 봐주셨으면 좋겠습니다.
+  저와 같은 비전을 향해 나아가기 위해 저의 강점을 회사의 이바지하고 저의 단점을 줄여나가길 희망합니다.
 content:
   - title: 국비과정 교육 수료 # Title for the section
     layout: list # Type of content section (list/text)
