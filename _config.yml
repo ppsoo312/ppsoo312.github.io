@@ -88,11 +88,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: On my way, My way Trip
-        link: http://naver.me/5lCsw8Xr
+        title: sssssssss
+        link: 
         # link_text: 입사지원서
         quote: >
-          신입 개발자로써 가장 필요한 덕목은 열정과 의지라고 생각합니다. 항상 맡은 바 최선을 다하였으며, 저의 삶으로 입증하였습니다.
+          신입 개발자로써 성실함과 꾸준함 얼마나 배우고자하여 성장하는지 중요하다고 생각합니다. 사회에 나온지 긴 시간은 아니지만 그 시간동안 꾸준히 목표를 향해 달려왔습니다.
         description: | # this will include new lines to allow paragraphs
                    국비 과정에서 JAVA, JSP, SPRING, HTML, CSS 등을 공부하였고, 팀원들과 함께 프로젝트를 진행한 바 있습니다.
           
