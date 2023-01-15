@@ -79,11 +79,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          국비 과정에서 만들었던 프로젝트입니다. 아래에 링크를 통해 시연 ppt를 확인할 수 있습니다.
+          국비 과정에서 만들었던 프로젝트입니다. 링크를 통해 프로젝트 및 박윤수 시연 ppt를 확인할 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
+          프로젝트를 진행하면서 여러사람과의 협업 즉 <mark>팀워크</mark>가 얼마나 중요한지 느껴보는 시간이었습니다.
           
-          개발은 협업입니다. 혼자 할 수 없다고 생각합니다. 개발자에게 있어 코딩 실력보다 중요한 것은 좋은 <mark>팀워크</mark>를 만들어 나가기 위한 노력이 아닐까 싶습니다.
+          팀원이 부족한 부분은 제가 채워나가고 제가 부족한 부분은 팀원이 채워나가며 프로젝트를 완성했을 때 얼마나 <mark>값진 경험</mark>인지 느끼고 발전하는 시간이었습니다.
   - title: 입사지원서 # Title for the section
     layout: list # Type of content section (list/text)
     content:
