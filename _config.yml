@@ -61,9 +61,9 @@ content:
         quote: >
           더 많은 것을 배워보고싶고, 여러 경험과 다른 사람과의 프로젝트를 함께 해보고 싶어 국비과정을 수료하게되었습니다.
         description: | # this will include new lines to allow paragraphs
-                   국비과정을 통해 개발자로써 필요한 부분을 배워 발전할 수 있는 계기가 되었고,
+                            국비과정을 통해 개발자로써 필요한 부분을 배워 발전할 수 있는 계기가 되었고,
           
-                   여러사람들과의 프로젝트를 통해 한층 더 개발자라는 직업에 매력을 느끼게 되었습니다.
+                            여러사람들과의 프로젝트를 통해 한층 더 개발자라는 직업에 매력을 느끼게 되었습니다.
   - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
