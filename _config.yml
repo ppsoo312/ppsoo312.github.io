@@ -101,23 +101,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title:
+        title: 자격증
         link: http://naver.me/G5Qkjew5
         # link_text: 자격증
         quote: >
-          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 관련된 자격증 취득을 <mark>목표</mark>로 하고 있습니다.
+          현업과 관련된 자격증을 취득하였고, 관련된 다른 자격증 취득도 목표로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
-                     워드프로세서 단일등급  (대한상공회의소, 2013.10)
+                     정보처리산업기사 ()
 
-                     정보기술자격(ITQ) 아래한글 A등급  (한국생산성본부, 2013.06)
-                     
-                     정보기술자격(ITQ) 한글엑셀 A등급  (한국생산성본부, 2011.12)
-                     
-                     정보기술자격(ITQ) 한글파워포인트 B등급  (한국생산성본부, 2014.02)
-                     
-                     사회조사분석사2급  (한국산업인력공단, 2015.08)
-                     
-                     사회복지사1급  (한국산업인력공단, 2017.03)                     
+                     운전면허 1종보통()                                    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
