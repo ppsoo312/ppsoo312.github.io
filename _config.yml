@@ -68,18 +68,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Us Way Trip
+        title: Hidden Gosu
         link: github.com/somizoo/uswaytrip
         # link_text: Project Website
         additional_links:
-          - title: 프로젝트 시연때 사용한 Prezi
+          - title: 프로젝트 및 시연 ppt
             icon: fab fa-github
             url: https://prezi.com/view/ZAfCTLpkjsxnW6vRLlYt/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          국비 과정에서 진행했던 프로젝트 입니다. 아래에는 프로젝트 시연을 위해 직접 만들었던 Prezi 입니다.
+          국비 과정에서 만들었던 프로젝트입니다. 아래에 링크를 통해 시연 ppt를 확인할 수 있습니다.
         description: | # this will include new lines to allow paragraphs
           프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
           
