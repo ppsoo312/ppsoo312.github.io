@@ -118,7 +118,7 @@ content:
         quote: >
          구현할 수 있는 기능과 프로젝트를 진행하며 구현했던 기능들 나열
         description: | # this will include new lines to allow paragraphs
-        - 정보처리산업기사
+        
 # Footer
 footer_show_references: true
 # references_title: Nice to meet you (Override references text)
