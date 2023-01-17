@@ -86,7 +86,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: sssssssss
+        title: sssss
         link: 
         # link_text: 입사지원서
         quote: >
