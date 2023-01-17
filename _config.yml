@@ -69,12 +69,12 @@ content:
     content:
       - layout: top-middle
         title: Hidden Gosu
-        link: github.com/somizoo/uswaytrip
+        link: https://github.com/ppsoo312/HIGO.git
         # link_text: Project Website
         additional_links:
           - title: 프로젝트 및 시연 ppt
             icon: fab fa-github
-            url: https://prezi.com/view/ZAfCTLpkjsxnW6vRLlYt/
+            url: http://naver.me/xJaQL7ro
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
