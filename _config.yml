@@ -68,12 +68,12 @@ content:
     content:
       - layout: top-middle
         title: Hidden Gosu
-        link: 
+        link: github.com/somizoo/uswaytrip
         # link_text: Project Website
         additional_links:
           - title: 프로젝트 및 시연 ppt
             icon: fab fa-github
-            url: 
+            url: https://prezi.com/view/ZAfCTLpkjsxnW6vRLlYt/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -88,7 +88,7 @@ content:
     content:
       - layout: top-middle
         title: sssss
-        link: 
+        link: http://naver.me/5lCsw8Xr
         # link_text: 입사지원서
         quote: >
           신입 개발자로써 성실함과 꾸준함 얼마나 배우고자하여 성장하는지 중요하다고 생각합니다. 사회에 나온지 긴 시간은 아니지만 그 시간동안 꾸준히 목표를 향해 달려왔습니다.
@@ -101,7 +101,7 @@ content:
     content:
       - layout: top-middle
         title: 자격증
-        link: 
+        link: http://naver.me/G5Qkjew5
         # link_text: 자격증
         quote: >
           현업과 관련된 자격증을 취득하였고, 관련된 다른 자격증 취득도 목표로 하고 있습니다.
@@ -123,7 +123,7 @@ footer_show_references: true
 # references_title: Nice to meet you (Override references text)
 
 # Build settings
-remote_theme:
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
