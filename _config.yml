@@ -107,9 +107,9 @@ content:
         quote: >
           현업과 관련된 자격증을 취득하였고, 관련된 다른 자격증 취득도 목표로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
-                     정보처리산업기사 ()
+                     정보처리산업기사 (2021.11.26)
 
-                     운전면허 1종보통()                                    
+                     운전면허 1종보통(2019.07.31)                                    
   - title: 구현가능한 기능 # Title for the section
     layout: list # Type of content section (list/text)
     content:
