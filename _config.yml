@@ -1,5 +1,5 @@
 # Site
-repository: ppsoo312.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -115,7 +115,7 @@ content:
       - layout: left
         title: 구현가능한 기능
         quote: >
- 구현할 수 있는 기능과 프로젝트를 진행하며 구현했던 기능들 나열
+         구현할 수 있는 기능과 프로젝트를 진행하며 구현했던 기능들 나열
         description: | # this will include new lines to allow paragraphs
           
 # Footer
