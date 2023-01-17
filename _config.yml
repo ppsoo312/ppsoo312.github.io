@@ -138,7 +138,6 @@ content:
          - ORACLE을 이용한 데이터베이스 설계 및 구현
          - html, css 활용가능, js를 통한 유효성 검사
          - SQL Developer, DBeaver, Oracle 사용 데이터베이스 관리
-         - 가능
 # Footer
 footer_show_references: true
 # references_title: Nice to meet you (Override references text)
