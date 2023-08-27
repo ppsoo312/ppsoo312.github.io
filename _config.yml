@@ -24,11 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
   **More sincere than anyone else**
   
 
-  누구보다 성실하게 한명의 개발자로 나아가고 싶은 <mark>박윤수</mark> 라고 합니다!
-  
-  개발자로 진로를 정한 이후에 쳐지지 않기 위해 쉬지 않고 달려왔습니다. 
-  
-  계속해서 성장과 발전을 하기 위해 끊임없이 노력할 것입니다.
+  간단 자기 소개
   
 content:
   - title: Myongji College # Title for the section
